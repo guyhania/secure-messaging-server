@@ -7,5 +7,3 @@ const pems = selfsigned.generate(attrs, { days: 365 });
 fs.mkdirSync('cert', { recursive: true });
 fs.writeFileSync('cert/key.pem', pems.private);
 fs.writeFileSync('cert/cert.pem', pems.cert);
-
-console.log('✅ TLS certificate generated in /cert');

@@ -38,7 +38,6 @@ router.get('/', authenticateToken, async (req, res) => {
 router.post('/send', authenticateToken, async (req, res) => {
   const { content, recipientId } = req.body;
   const senderId = req.user.userId;
-  console.log('req!!!!!!!!!!!!!!!!', req.user);
 
   if (!content || !recipientId) {
     return res.status(400).json({ error: 'Message content or recipientId' });

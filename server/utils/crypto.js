@@ -7,7 +7,6 @@ const IV_LENGTH = 12; // Recommended for GCM
 function encrypt(text) {
   const iv = crypto.randomBytes(IV_LENGTH);
   const cipher = crypto.createCipheriv(ALGORITHM, Buffer.from(SECRET), iv);
-  console.log('🔐 AES_SECRET length:', SECRET.length);
 
 
   let encrypted = cipher.update(text, 'utf8', 'hex');

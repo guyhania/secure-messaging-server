@@ -3,7 +3,6 @@ const bcrypt = require('bcrypt');
 const { encrypt } = require('./utils/crypto');
 const { sequelize, User, Message } = require('./models');
 
-
 (async () => {
   try {
     console.log('🔄 Seeding database...');
