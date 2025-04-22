@@ -33,17 +33,6 @@ A secure, real-time messaging application built with **Node.js**, **React**, and
 | Concurrency | PM2                           |
 
 ---
-server/
-├── config/             # DB config
-├── middlewares/        # Auth
-├── models/             # User and Message schemas
-├── routes/             # Express route definitions
-├── services/           # Business logic (e.g., messageBroadcaster)
-├── utils/              # Helper functions (e.g., cryptography, logger)
-├── tests/              # Unit tests
-├── app.js              # App entry point
-└── server.js           # HTTPS server setup
-
 ## 🚀 Getting Started
 
 ### 🛠 Prerequisites
