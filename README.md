@@ -32,6 +32,17 @@ A secure, real-time messaging application built with **Node.js**, **React**, and
 | Logging     | Winston                       |
 | Concurrency | PM2                           |
 
+## Notes
+- To Meet the 10K Connections Target
+  * Enable PM2 Cluster Mode using: pm2 start server/app.js -i max
+  * If the app is deployed in the cloud we can deploy multiple instances using: ( Kubernetes (k8s),Docker Swarm,WS ECS)
+- Points to improve:
+    - Set up Nginx or HAProxy in front of Node.js for load balancing between PM2 processes
+    - Set Typescript in the server
+    - Add Rate Limiting using express-rate-limit
+    - Add Password Reset Flow
+    - Add testss
+
 ---
 ## 🚀 Getting Started
 
