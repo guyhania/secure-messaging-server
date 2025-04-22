@@ -33,7 +33,6 @@ A secure, real-time messaging application built with **Node.js**, **React**, and
 | Concurrency | PM2                           |
 
 ---
-
 ## 🚀 Getting Started
 
 ### 🛠 Prerequisites
