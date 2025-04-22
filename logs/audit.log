@@ -1,0 +1,221 @@
+{"level":"info","message":"User logged in","timestamp":"2025-04-21T16:43:43.850Z","userId":3,"username":"testuser222"}
+{"level":"error","message":"Unhandled error logger is not defined","stack":"ReferenceError: logger is not defined\n    at C:\\Users\\guyha\\projects\\secure-messaging-server\\server\\routes\\messages.routes.js:41:3\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-04-21T16:43:46.917Z"}
+{"contentPreview":"Hello from Postman!","level":"info","message":"Message sent","senderId":3,"timestamp":"2025-04-21T16:45:24.416Z"}
+{"contentPreview":"Hello from Postman!","level":"info","message":"Message sent","senderId":3,"timestamp":"2025-04-21T16:57:05.964Z"}
+{"level":"warn","message":"Failed login attempt","timestamp":"2025-04-22T09:29:05.996Z","username":"111"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T09:30:51.666Z","userId":5,"username":"testuser"}
+{"level":"warn","message":"Failed login attempt","timestamp":"2025-04-22T09:31:04.214Z","username":"111"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T09:31:33.041Z","userId":5,"username":"testuser"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T09:34:00.922Z","userId":10,"username":"2"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T09:38:48.942Z","userId":10,"username":"2"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T09:39:26.941Z","userId":11,"username":"3"}
+{"contentPreview":"sdasd","level":"info","message":"Message sent","senderId":11,"timestamp":"2025-04-22T10:33:04.292Z"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T11:06:32.484Z","userId":11,"username":"3"}
+{"contentPreview":"kWT+SYJZzkRdn2g0nV+Bb9FbAgqPs1","level":"info","message":"Message sent","senderId":11,"timestamp":"2025-04-22T11:06:34.982Z"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T11:10:21.319Z","userId":10,"username":"2"}
+{"contentPreview":"reKATsDNpWyXDdwKHPfyuxdl/Hng6/","level":"info","message":"Message sent","senderId":10,"timestamp":"2025-04-22T11:10:27.998Z"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T12:07:44.963Z","userId":10,"username":"2"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T12:08:00.450Z","userId":11,"username":"3"}
+{"level":"error","message":"Unhandled error encrypted is not defined","stack":"ReferenceError: encrypted is not defined\n    at C:\\Users\\guyha\\projects\\secure-messaging-server\\server\\routes\\messages.routes.js:28:14\n    at Layer.handleRequest (C:\\Users\\guyha\\projects\\secure-messaging-server\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Users\\guyha\\projects\\secure-messaging-server\\node_modules\\router\\lib\\route.js:157:13)\n    at C:\\Users\\guyha\\projects\\secure-messaging-server\\server\\middlewares\\auth.middleware.js:15:5\n    at C:\\Users\\guyha\\projects\\secure-messaging-server\\node_modules\\jsonwebtoken\\verify.js:261:12\n    at getSecret (C:\\Users\\guyha\\projects\\secure-messaging-server\\node_modules\\jsonwebtoken\\verify.js:97:14)\n    at module.exports [as verify] (C:\\Users\\guyha\\projects\\secure-messaging-server\\node_modules\\jsonwebtoken\\verify.js:101:10)\n    at authenticateToken (C:\\Users\\guyha\\projects\\secure-messaging-server\\server\\middlewares\\auth.middleware.js:11:7)\n    at Layer.handleRequest (C:\\Users\\guyha\\projects\\secure-messaging-server\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Users\\guyha\\projects\\secure-messaging-server\\node_modules\\router\\lib\\route.js:157:13)","timestamp":"2025-04-22T12:08:05.857Z"}
+{"level":"error","message":"Unhandled error encrypted is not defined","stack":"ReferenceError: encrypted is not defined\n    at C:\\Users\\guyha\\projects\\secure-messaging-server\\server\\routes\\messages.routes.js:28:14\n    at Layer.handleRequest (C:\\Users\\guyha\\projects\\secure-messaging-server\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Users\\guyha\\projects\\secure-messaging-server\\node_modules\\router\\lib\\route.js:157:13)\n    at C:\\Users\\guyha\\projects\\secure-messaging-server\\server\\middlewares\\auth.middleware.js:15:5\n    at C:\\Users\\guyha\\projects\\secure-messaging-server\\node_modules\\jsonwebtoken\\verify.js:261:12\n    at getSecret (C:\\Users\\guyha\\projects\\secure-messaging-server\\node_modules\\jsonwebtoken\\verify.js:97:14)\n    at module.exports [as verify] (C:\\Users\\guyha\\projects\\secure-messaging-server\\node_modules\\jsonwebtoken\\verify.js:101:10)\n    at authenticateToken (C:\\Users\\guyha\\projects\\secure-messaging-server\\server\\middlewares\\auth.middleware.js:11:7)\n    at Layer.handleRequest (C:\\Users\\guyha\\projects\\secure-messaging-server\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Users\\guyha\\projects\\secure-messaging-server\\node_modules\\router\\lib\\route.js:157:13)","timestamp":"2025-04-22T12:08:52.206Z"}
+{"level":"error","message":"Unhandled error encrypted is not defined","stack":"ReferenceError: encrypted is not defined\n    at C:\\Users\\guyha\\projects\\secure-messaging-server\\server\\routes\\messages.routes.js:28:14\n    at Layer.handleRequest (C:\\Users\\guyha\\projects\\secure-messaging-server\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Users\\guyha\\projects\\secure-messaging-server\\node_modules\\router\\lib\\route.js:157:13)\n    at C:\\Users\\guyha\\projects\\secure-messaging-server\\server\\middlewares\\auth.middleware.js:15:5\n    at C:\\Users\\guyha\\projects\\secure-messaging-server\\node_modules\\jsonwebtoken\\verify.js:261:12\n    at getSecret (C:\\Users\\guyha\\projects\\secure-messaging-server\\node_modules\\jsonwebtoken\\verify.js:97:14)\n    at module.exports [as verify] (C:\\Users\\guyha\\projects\\secure-messaging-server\\node_modules\\jsonwebtoken\\verify.js:101:10)\n    at authenticateToken (C:\\Users\\guyha\\projects\\secure-messaging-server\\server\\middlewares\\auth.middleware.js:11:7)\n    at Layer.handleRequest (C:\\Users\\guyha\\projects\\secure-messaging-server\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Users\\guyha\\projects\\secure-messaging-server\\node_modules\\router\\lib\\route.js:157:13)","timestamp":"2025-04-22T12:09:02.450Z"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T12:10:01.416Z","userId":10,"username":"2"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T12:10:21.628Z","userId":10,"username":"2"}
+{"level":"error","message":"Unhandled error encrypted is not defined","stack":"ReferenceError: encrypted is not defined\n    at C:\\Users\\guyha\\projects\\secure-messaging-server\\server\\routes\\messages.routes.js:28:14\n    at Layer.handleRequest (C:\\Users\\guyha\\projects\\secure-messaging-server\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Users\\guyha\\projects\\secure-messaging-server\\node_modules\\router\\lib\\route.js:157:13)\n    at C:\\Users\\guyha\\projects\\secure-messaging-server\\server\\middlewares\\auth.middleware.js:19:5\n    at C:\\Users\\guyha\\projects\\secure-messaging-server\\node_modules\\jsonwebtoken\\verify.js:261:12\n    at getSecret (C:\\Users\\guyha\\projects\\secure-messaging-server\\node_modules\\jsonwebtoken\\verify.js:97:14)\n    at module.exports [as verify] (C:\\Users\\guyha\\projects\\secure-messaging-server\\node_modules\\jsonwebtoken\\verify.js:101:10)\n    at authenticateToken (C:\\Users\\guyha\\projects\\secure-messaging-server\\server\\middlewares\\auth.middleware.js:15:7)\n    at Layer.handleRequest (C:\\Users\\guyha\\projects\\secure-messaging-server\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Users\\guyha\\projects\\secure-messaging-server\\node_modules\\router\\lib\\route.js:157:13)","timestamp":"2025-04-22T12:16:13.564Z"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T12:16:27.364Z","userId":10,"username":"2"}
+{"level":"error","message":"Unhandled error encrypted is not defined","stack":"ReferenceError: encrypted is not defined\n    at C:\\Users\\guyha\\projects\\secure-messaging-server\\server\\routes\\messages.routes.js:28:14\n    at Layer.handleRequest (C:\\Users\\guyha\\projects\\secure-messaging-server\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Users\\guyha\\projects\\secure-messaging-server\\node_modules\\router\\lib\\route.js:157:13)\n    at C:\\Users\\guyha\\projects\\secure-messaging-server\\server\\middlewares\\auth.middleware.js:19:5\n    at C:\\Users\\guyha\\projects\\secure-messaging-server\\node_modules\\jsonwebtoken\\verify.js:261:12\n    at getSecret (C:\\Users\\guyha\\projects\\secure-messaging-server\\node_modules\\jsonwebtoken\\verify.js:97:14)\n    at module.exports [as verify] (C:\\Users\\guyha\\projects\\secure-messaging-server\\node_modules\\jsonwebtoken\\verify.js:101:10)\n    at authenticateToken (C:\\Users\\guyha\\projects\\secure-messaging-server\\server\\middlewares\\auth.middleware.js:15:7)\n    at Layer.handleRequest (C:\\Users\\guyha\\projects\\secure-messaging-server\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Users\\guyha\\projects\\secure-messaging-server\\node_modules\\router\\lib\\route.js:157:13)","timestamp":"2025-04-22T12:16:38.048Z"}
+{"contentPreview":"SDwRMUA1kzu/eWHuY/QAmK/2ClzsMY","level":"info","message":"Message sent","senderId":10,"timestamp":"2025-04-22T12:18:35.955Z"}
+{"contentPreview":"FfJSqSgXisVUNBMuVa7+bNQ6XmHays","level":"info","message":"Message sent","senderId":10,"timestamp":"2025-04-22T12:18:44.468Z"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T12:18:59.543Z","userId":11,"username":"3"}
+{"contentPreview":"fByEJO0ctCwFs1WxqHKRyZoZFn/IU/","level":"info","message":"Message sent","senderId":10,"timestamp":"2025-04-22T12:19:03.598Z"}
+{"contentPreview":"Befe+TJI8g/bfaMx2+WKkQAcVW2n91","level":"info","message":"Message sent","senderId":10,"timestamp":"2025-04-22T12:19:12.438Z"}
+{"contentPreview":"Gp8/hOGSiWmCmnitItyXhceHcSzDlI","level":"info","message":"Message sent","senderId":10,"timestamp":"2025-04-22T12:19:16.173Z"}
+{"contentPreview":"vDxucqokd/1XnbSq7vTLk/OX1zH5WE","level":"info","message":"Message sent","senderId":10,"timestamp":"2025-04-22T12:19:18.247Z"}
+{"contentPreview":"zrQ20F9cerURQPyY7cJnrWl2nVnpoh","level":"info","message":"Message sent","senderId":10,"timestamp":"2025-04-22T12:19:21.380Z"}
+{"contentPreview":"wNLaSFmP8sXBw0G2mJUe6SO63P0he5","level":"info","message":"Message sent","senderId":10,"timestamp":"2025-04-22T12:19:25.156Z"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T12:46:03.403Z","userId":10,"username":"2"}
+{"contentPreview":"tIs3Ohhk0pdUHfQMrVNm9GEHWYWZCE","level":"info","message":"Message sent","senderId":10,"timestamp":"2025-04-22T12:46:08.994Z"}
+{"contentPreview":"1Lx6JE8edG9m8iNUDloXkQyaQ2mmHR","level":"info","message":"Message sent","senderId":10,"timestamp":"2025-04-22T12:46:18.639Z"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T12:46:32.615Z","userId":11,"username":"3"}
+{"contentPreview":"tH4fnOXxSojmm/HvRvxU//C73WlMwM","level":"info","message":"Message sent","senderId":10,"timestamp":"2025-04-22T12:46:36.630Z"}
+{"contentPreview":"L0astgMLBpe9QjnK9w6giftOfhbaMg","level":"info","message":"Message sent","senderId":10,"timestamp":"2025-04-22T12:46:42.375Z"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T12:52:48.376Z","userId":11,"username":"3"}
+{"contentPreview":"b2lEudHc57mhOpFI24bEcdkXE9nZNn","level":"info","message":"Message sent","senderId":11,"timestamp":"2025-04-22T12:52:54.829Z"}
+{"contentPreview":"Ccw1CuZqg+r/p8eOmw0PugCAu3qOjx","level":"info","message":"Message sent","senderId":10,"timestamp":"2025-04-22T12:53:01.176Z"}
+{"contentPreview":"gC2qBm5ytwair9YgMqsrKHc5XcI1CL","level":"info","message":"Message sent","senderId":11,"timestamp":"2025-04-22T12:53:45.727Z"}
+{"contentPreview":"ilHhKnQsDFB8uCRERfzjw9Xnxz8/m/","level":"info","message":"Message sent","senderId":11,"timestamp":"2025-04-22T12:53:55.011Z"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T12:53:59.279Z","userId":10,"username":"2"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T13:33:45.087Z","userId":3,"username":"2"}
+{"contentPreview":"EWapTBoSo/rt/sV6XrI3Pux+rFnNLt","level":"info","message":"Message sent","senderId":3,"timestamp":"2025-04-22T13:37:49.577Z"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T13:38:24.259Z","userId":6,"username":"5"}
+{"contentPreview":"up6n9P4DvOIjsOAVYzcZd9dzXtNs7t","level":"info","message":"Message sent","senderId":3,"timestamp":"2025-04-22T13:38:28.052Z"}
+{"contentPreview":"Gy5a1pjFFoGFjIcx03wAHjHwido9wF","level":"info","message":"Message sent","senderId":3,"timestamp":"2025-04-22T13:38:39.148Z"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T14:22:13.719Z","userId":3,"username":"1"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T14:22:47.836Z","userId":4,"username":"2"}
+{"contentPreview":"J9beAlaTuvqkapd5uKuXoxHNCRj7p6","level":"info","message":"Message sent","senderId":3,"timestamp":"2025-04-22T14:22:51.027Z"}
+{"contentPreview":"cfQTuO/LhWx6eO3uuV3c3hNNoZuKT7","level":"info","message":"Message sent","senderId":3,"timestamp":"2025-04-22T14:22:59.017Z"}
+{"contentPreview":"PaqiusqVG9r8vcj5kiDpG5OzMGHEFq","level":"info","message":"Message sent","senderId":3,"timestamp":"2025-04-22T14:23:06.016Z"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T14:26:36.356Z","userId":3,"username":"1"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T14:27:36.537Z","userId":4,"username":"2"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T14:33:35.978Z","userId":3,"username":"1"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T14:34:18.224Z","userId":4,"username":"2"}
+{"contentPreview":"fQWD+V607WYPCK05YvraO+l2LPLOLs","level":"info","message":"Message sent","senderId":3,"timestamp":"2025-04-22T14:38:37.442Z"}
+{"contentPreview":"KhqOKzx8z+kSj7qj9seFXlPj4AarZP","level":"info","message":"Message sent","senderId":3,"timestamp":"2025-04-22T14:38:37.451Z"}
+{"contentPreview":"aoWJRo8WoA96zXpkKgGV01L1/2MJBN","level":"info","message":"Message sent","senderId":3,"timestamp":"2025-04-22T14:38:46.029Z"}
+{"contentPreview":"ACkxBR2iU7sPEzkv8ptJ0atOBa3pKU","level":"info","message":"Message sent","senderId":3,"timestamp":"2025-04-22T14:38:46.045Z"}
+{"contentPreview":"Gy2mxAmzf0uJ9Xi4sTtB6/WNot47Zz","level":"info","message":"Message sent","senderId":3,"timestamp":"2025-04-22T14:39:02.016Z"}
+{"contentPreview":"ZYTu5KGxbh9FGg0k5AK41l/4H4Hs1i","level":"info","message":"Message sent","senderId":3,"timestamp":"2025-04-22T14:39:02.044Z"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T14:48:01.625Z","userId":7,"username":"3"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T14:48:13.740Z","userId":3,"username":"1"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T14:48:27.500Z","userId":4,"username":"2"}
+{"contentPreview":"LEnpdD7GjMaJyhbsGk5w2wSE4G3l4f","level":"info","message":"Message sent","senderId":3,"timestamp":"2025-04-22T14:48:31.143Z"}
+{"contentPreview":"HVPoh0h/6OyQA6LD3g9gKRCV2A3VCC","level":"info","message":"Message sent","senderId":3,"timestamp":"2025-04-22T14:48:31.165Z"}
+{"contentPreview":"pht3mLt8MkLAYi7mj4Sdy/ujnYTNYg","level":"info","message":"Message sent","senderId":3,"timestamp":"2025-04-22T14:48:31.183Z"}
+{"contentPreview":"KR1Ehn1olZosXag1nYfH2ko+5fpeIK","level":"info","message":"Message sent","senderId":3,"timestamp":"2025-04-22T14:48:40.494Z"}
+{"contentPreview":"LHRSy8Z6yw3jLq/Tr1kPMST2HOktZC","level":"info","message":"Message sent","senderId":3,"timestamp":"2025-04-22T14:48:40.509Z"}
+{"contentPreview":"dUH8YyvHTgt/vduC/wx7qfPE1Lmgt8","level":"info","message":"Message sent","senderId":3,"timestamp":"2025-04-22T14:48:40.527Z"}
+{"contentPreview":"YyoQl2CfVXNlAH+u0I7CHNHWgxiSoo","level":"info","message":"Message sent","senderId":3,"timestamp":"2025-04-22T14:54:27.802Z"}
+{"contentPreview":"VY0GXK+QFo3tu4iSTB2+gC+ZRElIkr","level":"info","message":"Message sent","senderId":3,"timestamp":"2025-04-22T14:54:27.817Z"}
+{"contentPreview":"p8CFs8l9vaeynhyeNGpGgT6OuEsWlt","level":"info","message":"Message sent","senderId":3,"timestamp":"2025-04-22T14:54:27.829Z"}
+{"contentPreview":"RVHLbr0EvpikrdLfg7tXdL4Djx2Ppi","level":"info","message":"Message sent","senderId":4,"timestamp":"2025-04-22T14:54:36.375Z"}
+{"contentPreview":"mfyDoa/OiK6DCGBVTpRvfXN6SSWYfO","level":"info","message":"Message sent","senderId":4,"timestamp":"2025-04-22T14:54:36.399Z"}
+{"contentPreview":"lZDk5F77VIWS+SUZ7vdGltgB0ylx1J","level":"info","message":"Message sent","senderId":4,"timestamp":"2025-04-22T14:54:36.404Z"}
+{"contentPreview":"c3xOMaQwMV0afdNjs5WzXCDjO86GTG","level":"info","message":"Message sent","senderId":3,"timestamp":"2025-04-22T14:55:14.824Z"}
+{"contentPreview":"RKiVU45sTVZKtsQDxdaM4uqeF8BKmC","level":"info","message":"Message sent","senderId":3,"timestamp":"2025-04-22T14:55:14.838Z"}
+{"contentPreview":"yJefLgnCpfLW6tAuqbxLkXbDnb6fhH","level":"info","message":"Message sent","senderId":3,"timestamp":"2025-04-22T14:55:14.848Z"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T15:18:09.942Z","userId":3,"username":"1"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T15:18:14.598Z","userId":4,"username":"2"}
+{"contentPreview":"hHVPtAsK5/ClArYHa2eqrM2ZBXNJDN","level":"info","message":"Message sent","senderId":4,"timestamp":"2025-04-22T15:18:18.594Z"}
+{"contentPreview":"YdB5tq7544B1LyQlnE77FMMl/jNXMj","level":"info","message":"Message sent","senderId":4,"timestamp":"2025-04-22T15:18:18.605Z"}
+{"contentPreview":"XkNfNrLKStCpEDzHIyMaLXjfk9wuNQ","level":"info","message":"Message sent","senderId":4,"timestamp":"2025-04-22T15:18:32.033Z"}
+{"contentPreview":"IbVfppCVpiYnfU1eSVs+kycthSeXC2","level":"info","message":"Message sent","senderId":4,"timestamp":"2025-04-22T15:18:32.036Z"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T15:18:36.671Z","userId":4,"username":"2"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T15:18:54.676Z","userId":5,"username":"3"}
+{"contentPreview":"fDCDB8wQXWKraqcj+u/VSwb/avHPml","level":"info","message":"Message sent","senderId":5,"timestamp":"2025-04-22T15:18:58.719Z"}
+{"contentPreview":"uQgVTBVI9HlHi9mGd3M4ARDfqkIdjq","level":"info","message":"Message sent","senderId":5,"timestamp":"2025-04-22T15:18:58.732Z"}
+{"contentPreview":"T0bpGuDNLlV9XCQhn5XUlcmFyOGCP1","level":"info","message":"Message sent","senderId":5,"timestamp":"2025-04-22T15:18:58.744Z"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T15:19:13.025Z","userId":3,"username":"1"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T15:19:18.141Z","userId":5,"username":"3"}
+{"contentPreview":"KX/AR7Oz2iDjUPCMq4/AN1sJlhefDw","level":"info","message":"Message sent","senderId":5,"timestamp":"2025-04-22T15:19:27.518Z"}
+{"contentPreview":"kG7pROO6eYRD9niqbStPqSh6AYSlQD","level":"info","message":"Message sent","senderId":5,"timestamp":"2025-04-22T15:19:27.532Z"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T15:19:38.141Z","userId":4,"username":"2"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T15:19:44.872Z","userId":5,"username":"3"}
+{"contentPreview":"SPBHzY4xYo2MuYl18kYM3PVFrfSVTR","level":"info","message":"Message sent","senderId":5,"timestamp":"2025-04-22T15:19:46.445Z"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T16:24:34.710Z","userId":5,"username":"3"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T16:24:41.863Z","userId":5,"username":"3"}
+{"contentPreview":"jqA/p9JncSkA703eapASgWQ2QsUvAK","level":"info","message":"Message sent","senderId":5,"timestamp":"2025-04-22T16:24:46.051Z"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T16:33:08.863Z","userId":3,"username":"1"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T16:33:58.859Z","userId":3,"username":"1"}
+{"contentPreview":"I1vd1DlQ094+EeNRNaDLiuyK2epBHF","level":"info","message":"Message sent","senderId":3,"timestamp":"2025-04-22T16:34:37.551Z"}
+{"contentPreview":"IVdUXT+CDo5BPiyEIYSx430oAt5VBs","level":"info","message":"Message sent","senderId":3,"timestamp":"2025-04-22T16:34:37.562Z"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T16:38:57.142Z","userId":3,"username":"1"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T16:42:42.749Z","userId":3,"username":"1"}
+{"level":"error","message":"Unhandled error User is not defined","stack":"ReferenceError: User is not defined\n    at C:\\Users\\guyha\\projects\\secure-messaging-server\\server\\routes\\messages.routes.js:19:16\n    at Layer.handleRequest (C:\\Users\\guyha\\projects\\secure-messaging-server\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Users\\guyha\\projects\\secure-messaging-server\\node_modules\\router\\lib\\route.js:157:13)\n    at C:\\Users\\guyha\\projects\\secure-messaging-server\\server\\middlewares\\auth.middleware.js:19:5\n    at C:\\Users\\guyha\\projects\\secure-messaging-server\\node_modules\\jsonwebtoken\\verify.js:261:12\n    at getSecret (C:\\Users\\guyha\\projects\\secure-messaging-server\\node_modules\\jsonwebtoken\\verify.js:97:14)\n    at module.exports [as verify] (C:\\Users\\guyha\\projects\\secure-messaging-server\\node_modules\\jsonwebtoken\\verify.js:101:10)\n    at authenticateToken (C:\\Users\\guyha\\projects\\secure-messaging-server\\server\\middlewares\\auth.middleware.js:15:7)\n    at Layer.handleRequest (C:\\Users\\guyha\\projects\\secure-messaging-server\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Users\\guyha\\projects\\secure-messaging-server\\node_modules\\router\\lib\\route.js:157:13)","timestamp":"2025-04-22T16:42:42.805Z"}
+{"level":"error","message":"Unhandled error User is not defined","stack":"ReferenceError: User is not defined\n    at C:\\Users\\guyha\\projects\\secure-messaging-server\\server\\routes\\messages.routes.js:19:16\n    at Layer.handleRequest (C:\\Users\\guyha\\projects\\secure-messaging-server\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Users\\guyha\\projects\\secure-messaging-server\\node_modules\\router\\lib\\route.js:157:13)\n    at C:\\Users\\guyha\\projects\\secure-messaging-server\\server\\middlewares\\auth.middleware.js:19:5\n    at C:\\Users\\guyha\\projects\\secure-messaging-server\\node_modules\\jsonwebtoken\\verify.js:261:12\n    at getSecret (C:\\Users\\guyha\\projects\\secure-messaging-server\\node_modules\\jsonwebtoken\\verify.js:97:14)\n    at module.exports [as verify] (C:\\Users\\guyha\\projects\\secure-messaging-server\\node_modules\\jsonwebtoken\\verify.js:101:10)\n    at authenticateToken (C:\\Users\\guyha\\projects\\secure-messaging-server\\server\\middlewares\\auth.middleware.js:15:7)\n    at Layer.handleRequest (C:\\Users\\guyha\\projects\\secure-messaging-server\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Users\\guyha\\projects\\secure-messaging-server\\node_modules\\router\\lib\\route.js:157:13)","timestamp":"2025-04-22T16:42:42.818Z"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T16:43:02.185Z","userId":3,"username":"1"}
+{"level":"error","message":"Unhandled error User is not defined","stack":"ReferenceError: User is not defined\n    at C:\\Users\\guyha\\projects\\secure-messaging-server\\server\\routes\\messages.routes.js:19:16\n    at Layer.handleRequest (C:\\Users\\guyha\\projects\\secure-messaging-server\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Users\\guyha\\projects\\secure-messaging-server\\node_modules\\router\\lib\\route.js:157:13)\n    at C:\\Users\\guyha\\projects\\secure-messaging-server\\server\\middlewares\\auth.middleware.js:19:5\n    at C:\\Users\\guyha\\projects\\secure-messaging-server\\node_modules\\jsonwebtoken\\verify.js:261:12\n    at getSecret (C:\\Users\\guyha\\projects\\secure-messaging-server\\node_modules\\jsonwebtoken\\verify.js:97:14)\n    at module.exports [as verify] (C:\\Users\\guyha\\projects\\secure-messaging-server\\node_modules\\jsonwebtoken\\verify.js:101:10)\n    at authenticateToken (C:\\Users\\guyha\\projects\\secure-messaging-server\\server\\middlewares\\auth.middleware.js:15:7)\n    at Layer.handleRequest (C:\\Users\\guyha\\projects\\secure-messaging-server\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Users\\guyha\\projects\\secure-messaging-server\\node_modules\\router\\lib\\route.js:157:13)","timestamp":"2025-04-22T16:43:02.228Z"}
+{"level":"error","message":"Unhandled error User is not defined","stack":"ReferenceError: User is not defined\n    at C:\\Users\\guyha\\projects\\secure-messaging-server\\server\\routes\\messages.routes.js:19:16\n    at Layer.handleRequest (C:\\Users\\guyha\\projects\\secure-messaging-server\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Users\\guyha\\projects\\secure-messaging-server\\node_modules\\router\\lib\\route.js:157:13)\n    at C:\\Users\\guyha\\projects\\secure-messaging-server\\server\\middlewares\\auth.middleware.js:19:5\n    at C:\\Users\\guyha\\projects\\secure-messaging-server\\node_modules\\jsonwebtoken\\verify.js:261:12\n    at getSecret (C:\\Users\\guyha\\projects\\secure-messaging-server\\node_modules\\jsonwebtoken\\verify.js:97:14)\n    at module.exports [as verify] (C:\\Users\\guyha\\projects\\secure-messaging-server\\node_modules\\jsonwebtoken\\verify.js:101:10)\n    at authenticateToken (C:\\Users\\guyha\\projects\\secure-messaging-server\\server\\middlewares\\auth.middleware.js:15:7)\n    at Layer.handleRequest (C:\\Users\\guyha\\projects\\secure-messaging-server\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Users\\guyha\\projects\\secure-messaging-server\\node_modules\\router\\lib\\route.js:157:13)","timestamp":"2025-04-22T16:43:02.237Z"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T16:44:23.296Z","userId":3,"username":"1"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T16:46:40.562Z","userId":3,"username":"1"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T16:47:27.143Z","userId":3,"username":"1"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T16:47:37.718Z","userId":4,"username":"2"}
+{"contentPreview":"kCXGoPPqWZWS9SmRsTpfmSH197rVbO","level":"info","message":"Message sent","senderId":4,"timestamp":"2025-04-22T16:47:47.139Z"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T16:48:22.847Z","userId":4,"username":"2"}
+{"contentPreview":"XaqTbcTQd5/36ItNXa3CI7eOzsQY0R","level":"info","message":"Message sent","senderId":4,"timestamp":"2025-04-22T16:48:27.759Z"}
+{"contentPreview":"m+0CNZClNxoUtaQ6yWTyQtOu6RV57e","level":"info","message":"Message sent","senderId":4,"timestamp":"2025-04-22T16:48:38.407Z"}
+{"contentPreview":"Jr4uctX1JkukyP3AQHLwXxWn7FlkW4","level":"info","message":"Message sent","senderId":4,"timestamp":"2025-04-22T16:48:44.797Z"}
+{"contentPreview":"TvrbdhBtxyCkoTj88rJpCmg0fJj8C3","level":"info","message":"Message sent","senderId":4,"timestamp":"2025-04-22T16:48:46.062Z"}
+{"contentPreview":"rl2/ziJIIEHhoem3pdzv8WQVGDgihg","level":"info","message":"Message sent","senderId":4,"timestamp":"2025-04-22T16:48:46.624Z"}
+{"contentPreview":"PFUzcRXVSLRyxaplrF6hLjO1whul7u","level":"info","message":"Message sent","senderId":4,"timestamp":"2025-04-22T16:48:47.105Z"}
+{"contentPreview":"ZoJZPZnKgSnKiETOtMjX8D6EO5EnHM","level":"info","message":"Message sent","senderId":4,"timestamp":"2025-04-22T16:48:47.599Z"}
+{"contentPreview":"Hz2sOBcQ1WXuWQstYffmItannFY2Zo","level":"info","message":"Message sent","senderId":4,"timestamp":"2025-04-22T16:48:48.303Z"}
+{"contentPreview":"CmiCaTHbBSmdgQdjFNXpb8C9TvSGuH","level":"info","message":"Message sent","senderId":4,"timestamp":"2025-04-22T16:48:48.734Z"}
+{"contentPreview":"o++1okN5Esn7HQkuT7YBIK/cHP1PF6","level":"info","message":"Message sent","senderId":4,"timestamp":"2025-04-22T16:48:49.358Z"}
+{"contentPreview":"DgbopEnc1XDr6YkikNecH833D+pRuh","level":"info","message":"Message sent","senderId":4,"timestamp":"2025-04-22T16:48:49.767Z"}
+{"contentPreview":"U8HTAhSLDFQs3iQGZmUaHg8vbD7aF2","level":"info","message":"Message sent","senderId":4,"timestamp":"2025-04-22T16:48:50.731Z"}
+{"contentPreview":"qWFvFXzyJntPU0AyswnGseVkUtdbVV","level":"info","message":"Message sent","senderId":4,"timestamp":"2025-04-22T16:48:51.363Z"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T16:49:28.051Z","userId":1,"username":"alice"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T16:49:38.512Z","userId":1,"username":"alice"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T16:49:48.333Z","userId":2,"username":"bob"}
+{"level":"warn","message":"Failed login attempt","timestamp":"2025-04-22T16:49:53.206Z","username":"bob"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T16:50:04.404Z","userId":3,"username":"1"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T16:51:16.737Z","userId":3,"username":"1"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T16:51:30.663Z","userId":3,"username":"1"}
+{"contentPreview":"ImxuWaiuv+MXefrKQ7GQpnvzfpRk8X","level":"info","message":"Message sent","senderId":3,"timestamp":"2025-04-22T16:51:34.995Z"}
+{"contentPreview":"FSTBw6VPXmoOQzenze38cmnWdiBDzw","level":"info","message":"Message sent","senderId":3,"timestamp":"2025-04-22T16:51:35.806Z"}
+{"contentPreview":"B8YdNjNyzPCEouI8pzOaS3P8qc4di5","level":"info","message":"Message sent","senderId":3,"timestamp":"2025-04-22T16:51:36.866Z"}
+{"contentPreview":"ZHG9XkYoUb14S1IS1oLv1HTbHbJTEi","level":"info","message":"Message sent","senderId":3,"timestamp":"2025-04-22T16:53:33.264Z"}
+{"contentPreview":"k8XEnFMENlJ7fqIbEWf/VgXzJ02jEt","level":"info","message":"Message sent","senderId":3,"timestamp":"2025-04-22T16:53:44.704Z"}
+{"contentPreview":"OxGP2ljMRwNqt7k7m1yUwB53PAohsw","level":"info","message":"Message sent","senderId":3,"timestamp":"2025-04-22T16:54:07.884Z"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T17:02:38.850Z","userId":3,"username":"1"}
+{"contentPreview":"Qqis/5nRORWjCadEubLOR5lQXA+tmn","level":"info","message":"Message sent","senderId":3,"timestamp":"2025-04-22T17:02:43.297Z"}
+{"contentPreview":"gGu5zICI48yBc1zh8Pq6rJGOJcKMlj","level":"info","message":"Message sent","senderId":3,"timestamp":"2025-04-22T17:04:21.098Z"}
+{"contentPreview":"MGFb4Am0d2z7+guxevgiOAKXBQbnSc","level":"info","message":"Message sent","senderId":3,"timestamp":"2025-04-22T17:05:16.603Z"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T17:06:44.505Z","userId":3,"username":"1"}
+{"contentPreview":"FkzayiEm6kCyDwLkW7YKC8h6QNzgb5","level":"info","message":"Message sent","senderId":3,"timestamp":"2025-04-22T17:06:49.594Z"}
+{"contentPreview":"UWHNDiyuKPw+5hcaYoPeEYsMKgwj9y","level":"info","message":"Message sent","senderId":3,"timestamp":"2025-04-22T17:06:52.602Z"}
+{"contentPreview":"Lo6R8CjEI+limJuhMzTGhGU9Tp08Hr","level":"info","message":"Message sent","senderId":3,"timestamp":"2025-04-22T17:06:55.196Z"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T17:09:35.722Z","userId":3,"username":"1"}
+{"contentPreview":"HnXAaiOyhADr/hUNykrEsxsCPEsMlH","level":"info","message":"Message sent","senderId":3,"timestamp":"2025-04-22T17:09:39.154Z"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T17:18:13.950Z","userId":3,"username":"1"}
+{"contentPreview":"d8uAsTCorN55YZvL4rLmEc6iZbLIhv","level":"info","message":"Message sent","senderId":3,"timestamp":"2025-04-22T17:18:16.287Z"}
+{"contentPreview":"ZTsjRaXorBBzJmlXPbcjkM3Y3EZagt","level":"info","message":"Message sent","senderId":3,"timestamp":"2025-04-22T17:19:43.250Z"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T17:20:08.595Z","userId":3,"username":"1"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T17:20:08.790Z","userId":3,"username":"1"}
+{"contentPreview":"ASlZuYh1XojU3NkDTLK1uiO2+zTQCA","level":"info","message":"Message sent","senderId":3,"timestamp":"2025-04-22T17:20:11.077Z"}
+{"contentPreview":"hsocSFntRM2hs9IgbE+b6EC8hsMIr7","level":"info","message":"Message sent","senderId":3,"timestamp":"2025-04-22T17:20:20.297Z"}
+{"contentPreview":"MkoTGD4ymkra9SoVv1BLtxRlxg3NeZ","level":"info","message":"Message sent","senderId":3,"timestamp":"2025-04-22T17:20:28.414Z"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T17:20:51.973Z","userId":4,"username":"2"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T17:20:52.353Z","userId":4,"username":"2"}
+{"contentPreview":"BHVR/X97btZ+m0Eb0RZRTYivqENoD2","level":"info","message":"Message sent","senderId":3,"timestamp":"2025-04-22T17:20:54.910Z"}
+{"contentPreview":"H8vMgMNUoHudzp+ZkTxR0e9iSwStLT","level":"info","message":"Message sent","senderId":3,"timestamp":"2025-04-22T17:20:54.932Z"}
+{"contentPreview":"d+v4hO9o1SH6PH4zxm7nw7eueT/jtz","level":"info","message":"Message sent","senderId":3,"timestamp":"2025-04-22T17:20:59.393Z"}
+{"contentPreview":"HtR3iBPqNb5MKbjZlLej8Ui+7XjwJs","level":"info","message":"Message sent","senderId":3,"timestamp":"2025-04-22T17:20:59.397Z"}
+{"contentPreview":"Vu/sf4krxmeCjw2MXKvwaHfHGPCauH","level":"info","message":"Message sent","senderId":4,"timestamp":"2025-04-22T17:21:04.292Z"}
+{"contentPreview":"nePnkS7CCvziEcaLBP3120F02RCvIb","level":"info","message":"Message sent","senderId":4,"timestamp":"2025-04-22T17:21:04.295Z"}
+{"level":"warn","message":"Failed login attempt","timestamp":"2025-04-22T17:25:33.027Z","username":"Guy"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T17:25:36.978Z","userId":6,"username":"guy"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T17:27:32.519Z","userId":3,"username":"1"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T17:29:58.412Z","userId":3,"username":"1"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T18:06:29.809Z","userId":3,"username":"1"}
+{"contentPreview":"T5qiOP9EdTsawdjofqhTD/ZN/egfL+","level":"info","message":"Message sent","senderId":3,"timestamp":"2025-04-22T18:08:27.343Z"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T18:08:53.923Z","userId":4,"username":"2"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T18:08:54.358Z","userId":4,"username":"2"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T18:09:28.660Z","userId":5,"username":"3"}
+{"contentPreview":"CjuAnKYY0Y4smA5tBH7X0y3yfHZhOE","level":"info","message":"Message sent","senderId":5,"timestamp":"2025-04-22T18:09:45.040Z"}
+{"contentPreview":"A2LsdngcGmK5pc+NAkm5W/YTFcWZPp","level":"info","message":"Message sent","senderId":5,"timestamp":"2025-04-22T18:09:45.054Z"}
+{"contentPreview":"FerEr/IQUZk8srnQEiJ+EErLMQ1rTl","level":"info","message":"Message sent","senderId":5,"timestamp":"2025-04-22T18:09:45.060Z"}
+{"contentPreview":"IT9KZghurHhds24bW9Wl5YrCFY5gd0","level":"info","message":"Message sent","senderId":3,"timestamp":"2025-04-22T18:10:11.819Z"}
+{"contentPreview":"TwjNfzkPPzxR2EyKzondxp31m73uo2","level":"info","message":"Message sent","senderId":3,"timestamp":"2025-04-22T18:10:11.821Z"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T18:10:23.721Z","userId":4,"username":"2"}
+{"level":"warn","message":"Failed login attempt","timestamp":"2025-04-22T18:12:01.039Z","username":"1"}
+{"level":"warn","message":"Failed login attempt","timestamp":"2025-04-22T18:12:06.890Z","username":"12323"}
+{"level":"warn","message":"Failed login attempt","timestamp":"2025-04-22T18:12:09.582Z","username":"1"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T18:12:11.200Z","userId":3,"username":"1"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T18:13:28.422Z","userId":3,"username":"1"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T18:29:21.065Z","userId":1,"username":"testuser"}
+{"level":"warn","message":"Failed login attempt","timestamp":"2025-04-22T18:29:21.399Z","username":"testuser"}
+{"level":"warn","message":"Failed login attempt","timestamp":"2025-04-22T18:29:21.407Z","username":"ghost"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T18:30:45.424Z","userId":1,"username":"testuser"}
+{"level":"warn","message":"Failed login attempt","timestamp":"2025-04-22T18:30:45.765Z","username":"testuser"}
+{"level":"warn","message":"Failed login attempt","timestamp":"2025-04-22T18:30:45.778Z","username":"ghost"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T18:36:47.806Z","userId":1,"username":"testuser"}
+{"level":"warn","message":"Failed login attempt","timestamp":"2025-04-22T18:36:48.131Z","username":"testuser"}
+{"level":"warn","message":"Failed login attempt","timestamp":"2025-04-22T18:36:48.143Z","username":"ghost"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T18:37:04.960Z","userId":1,"username":"testuser"}
+{"level":"warn","message":"Failed login attempt","timestamp":"2025-04-22T18:37:05.313Z","username":"testuser"}
+{"level":"warn","message":"Failed login attempt","timestamp":"2025-04-22T18:37:05.321Z","username":"ghost"}
+{"level":"warn","message":"Failed login attempt","timestamp":"2025-04-22T18:44:18.349Z","username":"1"}
+{"level":"warn","message":"Failed login attempt","timestamp":"2025-04-22T18:44:23.775Z","username":"1"}
+{"level":"warn","message":"Failed login attempt","timestamp":"2025-04-22T18:44:26.106Z","username":"2"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T18:44:32.960Z","userId":3,"username":"1"}
+{"contentPreview":"dpoqaXaPMPDNI0OjRohqBaPULwa7tu","level":"info","message":"Message sent","senderId":3,"timestamp":"2025-04-22T18:44:38.946Z"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T18:44:53.455Z","userId":4,"username":"2"}
+{"contentPreview":"Po3yr3MmrnfZfSnPUmR8LBH1EHUAeN","level":"info","message":"Message sent","senderId":4,"timestamp":"2025-04-22T18:44:57.131Z"}
+{"contentPreview":"Qcss6Elq2zROlsRC5ElSRgnlkJaS6g","level":"info","message":"Message sent","senderId":4,"timestamp":"2025-04-22T18:44:57.135Z"}
+{"contentPreview":"YwiAAt42lFVU/4zsjv4BgOZ5rv8DCm","level":"info","message":"Message sent","senderId":3,"timestamp":"2025-04-22T18:45:03.215Z"}
+{"contentPreview":"P2T8iY6bHi40KtFxd9Vu12AAKmhAQY","level":"info","message":"Message sent","senderId":3,"timestamp":"2025-04-22T18:45:03.217Z"}
+{"contentPreview":"yYODC8SWJJiEUrFQ0fOt50iXs+p7MA","level":"info","message":"Message sent","senderId":4,"timestamp":"2025-04-22T18:45:12.714Z"}
+{"level":"info","message":"User logged in","timestamp":"2025-04-22T18:45:16.454Z","userId":3,"username":"1"}
+{"contentPreview":"QQxxspWrUbtpJM8l1b+lAADmh2jD00","level":"info","message":"Message sent","senderId":3,"timestamp":"2025-04-22T18:45:22.923Z"}
+{"contentPreview":"KNiWEXASKOx4g0cIJ8+9HKfJXQVLAa","level":"info","message":"Message sent","senderId":3,"timestamp":"2025-04-22T18:45:22.926Z"}
